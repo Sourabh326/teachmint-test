@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "posts": 12,
+      "username": "John",
+      "catch_phrase": "catch 1",
+      "address": "St. convent Street, USA",
+      "email": "john@gmail.com",
+      "phone": "123",
+      "post": [
+        {
+          "id": 1,
+          "title": "the times",
+          "content": "the time is now before the times"
+        },
+        {
+          "id": 2,
+          "title": "Tech Insights",
+          "content": "Delving into the latest technological advancements and their impact on society."
+        },
+        {
+          "id": 3,
+          "title": "Healthy Living",
+          "content": "Tips and tricks for maintaining a healthy lifestyle and well-being."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "posts": 15,
+      "username": "bob456",
+      "catch_phrase": "catch 3",
+      "address": "Mountain View, USA",
+      "email": "bob@gmail.com",
+      "phone": "789",
+      "post": [
+        {
+          "id": 1,
+          "title": "the times",
+          "content": "the time is now before the times"
+        },
+        {
+          "id": 2,
+          "title": "Tech Insights",
+          "content": "Delving into the latest technological advancements and their impact on society."
+        },
+        {
+          "id": 3,
+          "title": "Healthy Living",
+          "content": "Tips and tricks for maintaining a healthy lifestyle and well-being."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Eva",
+      "posts": 20,
+      "username": "eva789",
+      "catch_phrase": "catch 4",
+      "address": "Ocean Drive, USA",
+      "email": "eva@gmail.com",
+      "phone": "987",
+      "post": [
+        {
+          "id": 1,
+          "title": "the times",
+          "content": "the time is now before the times"
+        },
+        {
+          "id": 2,
+          "title": "Tech Insights",
+          "content": "Delving into the latest technological advancements and their impact on society."
+        },
+        {
+          "id": 3,
+          "title": "Healthy Living",
+          "content": "Tips and tricks for maintaining a healthy lifestyle and well-being."
+        }
+      ]
+    }
+  ]
+}
